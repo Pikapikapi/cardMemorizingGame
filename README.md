@@ -1,2 +1,0 @@
-# cardMemorizingGame
-excercise of course
